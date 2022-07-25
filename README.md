@@ -49,3 +49,6 @@ Depois na lógica do componente, no construtor, eu especifico o meu serviço, se
 
 Feito isto, consigo usar os métodos e váriaveis contidas no serviço Criando
 
+## Interpolação e Property Binding
+
+sdasd 
